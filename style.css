@@ -56,3 +56,8 @@ nav {
   display: flex;
   justify-content: space-around;
 }
+@media (max-width: 768px) {
+    .myImage {
+        width: 100%
+    }
+}
